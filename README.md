@@ -5,6 +5,5 @@
 * Bob
 * Tim 
 * Joe 
-* Henry 
-*
+* Henry <br /> 
 (and Henry the tadpole)
